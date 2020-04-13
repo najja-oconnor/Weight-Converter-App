@@ -1,0 +1,17 @@
+body {
+    margin-top: 70px;
+    background: rgb(221, 188, 127);
+    color: white;
+}
+
+.card-primary {
+    background-color: rgb(151, 151, 238);
+}
+
+.card-success {
+    background-color: rgb(125, 214, 125)
+}
+
+.card-danger {
+    background-color: rgb(255, 118, 118)
+}
