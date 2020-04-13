@@ -1,17 +1,27 @@
 body {
     margin-top: 70px;
-    background: rgb(221, 188, 127);
+    background: rgba(221, 188, 127, 0.836);
+    color: black;
+}
+
+h1:hover {
     color: white;
 }
 
 .card-primary {
     background-color: rgb(151, 151, 238);
+    font-size: 24px;
+    color:white;
 }
 
 .card-success {
-    background-color: rgb(125, 214, 125)
+    background-color: rgb(125, 214, 125);
+    font-size: 24px;
+    color:white;
 }
 
 .card-danger {
-    background-color: rgb(255, 118, 118)
+    background-color: rgb(255, 118, 118);
+    font-size: 24px;
+    color:white;
 }
